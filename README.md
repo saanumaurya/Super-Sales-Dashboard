@@ -55,7 +55,7 @@ KPIs Cards: Highlight total sales, profit, quantity, and delivery metrics.
 
 Power BI Desktop
 
-Microsoft Excel / CSV Data Source
+ CSV Data Source
 
 Data Cleaning & Modeling: Power Query Editor
 
